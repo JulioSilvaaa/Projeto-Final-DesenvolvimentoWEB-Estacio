@@ -1,0 +1,76 @@
+body{
+    background-color: #00011F;
+}
+
+.logo-home{
+    width: 270px;
+    display: block;
+    margin-left: 42.5%;
+    display: inline-flex;
+}    
+
+
+h2{
+    color: orange;
+    font-family: satisfy;
+    margin-left: 41.5%;
+    display: block;
+}
+
+.op01{
+    background-color: #000118;
+    width: 350px;
+    height: 600px;
+    border: solid 3px orange;
+    margin-left: 300px;
+    display: inline-flex;
+}
+
+#card01{
+    width: 330px;
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 15px;
+    border: solid 0.5px darkorange;
+}
+
+.op02{
+    background-color: #000118;
+    width: 350px;
+    height: 600px;
+    border: solid 3px orange;
+    margin-left: 110px;
+    display: inline-flex;
+}
+
+#card2{
+    width: 330px;
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 15px;
+    border: solid 0.5px darkorange;
+}
+
+
+.op03{
+    background-color: #000118;
+    width: 350px;
+    height: 600px;
+    border: solid 3px orange;
+    margin-left: 110px;
+    display: inline-flex;
+}
+
+#card3{
+    width: 330px;
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 15px;
+    border: solid 0.5px darkorange;
+}
+
+.nome-card{
+    color: white;
+    margin: -30pt;
+    margin-left: 15pt;
+}
