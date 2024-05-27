@@ -7,10 +7,10 @@ h1{
     font-size: 5rem;
     color: #DBEDF3;
     font-family: "Arvo", serif;
-    text-shadow: 3px 0 #DA0463;
+    text-shadow: 5px 0 #DA0463;
 }
 .set {
-    margin: 10% auto;
+    margin: 7% auto;
 }
 
 .a {
@@ -25,15 +25,15 @@ h1{
     background-image: url("./Assets/Image/snare.png");
 }
 
-.k {
+.f {
     background-image: url("./Assets/Image/kickbass.png");
 }
 
-.f {
+.j {
     background-image: url("./Assets/Image/tom2.png");
 }
 
-.j {
+.k {
     background-image: url("./Assets/Image/tom3.png");
 }
 
@@ -45,7 +45,7 @@ h1{
     line-height: 2;
     font-weight: 900;
     color: #DA0463;
-    text-shadow: 3px 0 black;
+    text-shadow: 5px 0 black;
     border-radius: 20px;
     display: inline-block;
     width: 150px;
