@@ -62,6 +62,5 @@ function botaoAnimacao(button) {
     }, 100);
 }
 
-
 detectButtonClicks();
 detectKeyPresses();
